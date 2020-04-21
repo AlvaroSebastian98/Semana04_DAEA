@@ -1,0 +1,5 @@
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab4\Semana04\Entity\bin\Debug\Entity.dll
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab4\Semana04\Entity\bin\Debug\Entity.pdb
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab4\Semana04\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab4\Semana04\Entity\obj\Debug\Entity.dll
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab4\Semana04\Entity\obj\Debug\Entity.pdb

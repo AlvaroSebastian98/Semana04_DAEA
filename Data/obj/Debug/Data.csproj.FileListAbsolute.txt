@@ -1,0 +1,8 @@
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab4\Semana04\Data\bin\Debug\Data.dll
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab4\Semana04\Data\bin\Debug\Data.pdb
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab4\Semana04\Data\bin\Debug\Entity.dll
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab4\Semana04\Data\bin\Debug\Entity.pdb
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab4\Semana04\Data\obj\Debug\Data.csprojAssemblyReference.cache
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab4\Semana04\Data\obj\Debug\Data.csproj.CopyComplete
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab4\Semana04\Data\obj\Debug\Data.dll
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab4\Semana04\Data\obj\Debug\Data.pdb
